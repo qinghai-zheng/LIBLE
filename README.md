@@ -1,7 +1,7 @@
 # LIBLE
 Source codes of "Label Information Bottleneck for Label Enhancement, CVPR 2023"
 
-<img src="./Framework_LIB.png" width="80%">
+<img src="./Framework_LIB.png" width="50%">
 
 If you find this repository useful in your research, please cite our work as follows, thanks.
 
